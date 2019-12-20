@@ -1,0 +1,7 @@
+﻿  Memory.cpp
+C:\Users\chs-tylerc\source\repos\MemoryInjectionDemo\MemoryInjectionDemo\Memory.cpp(63,22): warning C4018: '<': signed/unsigned mismatch
+  MemoryInjectionDemo.cpp
+  Process.cpp
+  Generating Code...
+C:\Users\chs-tylerc\source\repos\MemoryInjectionDemo\MemoryInjectionDemo\Memory.cpp(38): warning C4715: 'CMemory::Process': not all control paths return a value
+  MemoryInjectionDemo.vcxproj -> C:\Users\chs-tylerc\source\repos\MemoryInjectionDemo\Debug\MemoryInjectionDemo.exe
